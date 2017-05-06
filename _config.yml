@@ -9,8 +9,8 @@ collections:
     title: Uploads
     output: true
 name: Fernando Rubio Burga
-bio: Ingeniero Mecatronico
-description: Un blog de mis proyectos realizados
+bio: Mechatronic Engineer
+description: A blog of developed projects
 external-image: true
 picture: assets/images/profile.jpg
 resume: true
