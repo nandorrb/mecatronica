@@ -11,12 +11,12 @@ collections:
 name: Fernando Rubio Burga
 bio: Ingeniero Mecatronico
 description: Un blog de mis proyectos realizados
-external-image: false
+external-image: true
 picture: assets/images/profile.jpg
 resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
-url: http://mecatronica.pe/
+url: Nandorrb.Github.Io
 permalink: "/:title/"
 disqus:
   shortname: mydisqus
