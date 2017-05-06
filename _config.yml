@@ -8,15 +8,15 @@ collections:
   uploads:
     title: Uploads
     output: true
-name: John Doe
-bio: A Man who travels the world eating noodles
-description: A blog about technology and stuff related
+name: Fernando Rubio Burga
+bio: Ingeniero Mecatronico
+description: Un blog de mis proyectos realizados
 external-image: false
 picture: assets/images/profile.jpg
 resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
-url: https://koppl.in/indigo
+url: http://mecatronica.pe/
 permalink: "/:title/"
 disqus:
   shortname: mydisqus
