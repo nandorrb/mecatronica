@@ -1,0 +1,16 @@
+---
+title: Generacion de StartUps y empresas
+date: 2014-07-17 00:00:00 Z
+categories:
+- Web Development
+layout: default
+modal-id: 1
+img: linea_de_produccion.jpg
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+description: 
+  Desarrollamos continuamente nuevos proyectos y StartUps, innovando y generando nuevas oportunidades de negocio y tecnologìa.
+  
+---
+

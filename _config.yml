@@ -1,6 +1,6 @@
 ---
-title: Nandorrb.Github.Io
-timezone: UTC
+title: Mecatronica.pe
+timezone: America/Lima
 collections:
   posts:
     title: Posts
@@ -8,55 +8,40 @@ collections:
   uploads:
     title: Uploads
     output: true
-name: Fernando Rubio Burga
-bio: Mechatronic Engineer
-description: CEO of www.mecatronica.pe a startup company of technology development
-  and engineering.
-external-image: true
-picture: assets/images/profile.jpg
-resume: true
-resume-external: true
-resume-url: https://google.com/?q=my+resume
-url: 
-permalink: "/:title/"
-disqus:
-  shortname: mydisqus
-  categories:
-  - blog
-  - project
-facebook: myfacebook
-twitter: mytwitter
-github: mygithub
-medium: medium
 email: nando.rrb.00@gmail.com
-authors:
-  johndoe:
-    name: John Doe
-    bio: A Man who travels the world eating noodles
-    external-image: false
-    picture: assets/images/profile.jpg
-    twitter: johndoe
-  jamesfoster:
-    name: James Foster
-    bio: A Man who develops software with coffee
-    external-image: false
-    picture: assets/images/james.jpg
-    twitter: jamesfoster
-width: normal
-projects: true
-about: true
-blog: true
-read-time: true
-show-tags: true
-related: true
-post-advance-links:
-- blog
-show-author: true
-animation: true
-gems:
-- jekyll-seo-tag
-- jekyll-gist
-- jekyll-feed
-- jemoji
-jekyll-mentions:
-  base_url: https://github.com
+url: "/proyectos"
+baseurl: "/proyectos"
+description: Desarrollamos prototipos MVP para StartUps y empresarios desde la etapa
+  de diseño y manufactura hasta la etapa de masificacion del producto. Tambien brindamos
+  servicios de consultoria en ingeniería, y desarrollo de proyectos en general.
+skills: Proyectos de Ingenieria - Desarrollo de Prototipos - Generacion de StartUps
+meta_author: Fernando Rubio
+google_verify: 
+bing_verify: 
+contact: static
+disqus_shortname: myshortname
+color:
+  primary: 18bc9c
+  primary-rgb: '24,288,156'
+  secondary: 2c3e50
+  secondary-dark: 233140
+footer:
+  copyright: Mecatronica del Peru
+  location: Lima - Peru
+  social: Redes Sociales
+  credits: Credits
+social:
+- title: facebook
+  url: https://www.facebook.com/ingenieriamecatronicaperu/
+- title: bitbucket
+  url: http://bitbucket.org/nandorrb
+- title: github
+  url: http://github.com/nandorrb
+address:
+- line: 964484111
+- line: Jiron Ciudad Real
+- line: Santiago de Surco - Lima
+credits: WebPage made using Freelancer, a free to use, open source Bootstrap theme
+  created by <a href="http://startbootstrap.com">Start Bootstrap</a>.
+markdown: kramdown
+permalink: pretty
