@@ -1,6 +1,6 @@
 ---
 title: StartUps Generadas
-date: 2014-07-15 00:00:00 Z
+date: 2014-07-14 19:00:00 -05:00
 categories:
 - Web Development
 layout: default
