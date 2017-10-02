@@ -9,7 +9,9 @@ img: prototipos.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
-description: Desarrollamos proyectos de ingenieria y diseño de maquionaria, con lo último en tecnología y calidad industrial.
-  Todo proyecto comienza con los requisitos, se desarrolla una cotizacion y planificación del proyecto. Nos basamos en la metodologia Lean para desarrollo del ciclo de diseño del proyecto.
+description: Desarrollamos proyectos de ingenieria y diseño de maquionaria, con lo
+  último en tecnología y calidad industrial. Todo proyecto comienza con los requisitos,
+  se desarrolla una cotizacion y planificación del proyecto. Nos basamos en la metodologia
+  Lean para desarrollo del ciclo de diseño del proyecto.
 ---
 
