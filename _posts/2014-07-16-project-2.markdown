@@ -1,5 +1,5 @@
 ---
-title: Desarrollo de Prototipos
+title: Desarrollo de proyectos de Ingenieria
 date: 2014-07-16 19:00:00 -05:00
 categories:
 - Web Development
@@ -9,10 +9,7 @@ img: prototipos.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
-description: Desarrollamos prototipos de productos innovadores, con lo último en tecnología.
-  Para que tu solo te encargues de venderlo. Todo proyecto comienza con los requisitos,
-  el alcance del proyecto. Qué debe tener el producto final y qué no. Respecto a esos
-  datos nosotros investigaremos, diseñaremos y produciremos el producto que usted
-  desee.
+description: Desarrollamos proyectos de ingenieria y diseño de maquionaria, con lo último en tecnología y calidad industrial.
+  Todo proyecto comienza con los requisitos, se desarrolla una cotizacion y planificación del proyecto. Nos basamos en la metodologia Lean para desarrollo del ciclo de diseño del proyecto.
 ---
 
