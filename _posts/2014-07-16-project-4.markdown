@@ -14,7 +14,7 @@ img: linea_de_produccion.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
-description: Desarrollo de un sistema completo de monitoreo y logistica, usando lo ultimo en tecnología para todo tipo de empresas.
-
+description: Desarrollo de un sistema completo de monitoreo y logistica, usando lo
+  ultimo en tecnología para todo tipo de empresas.
 ---
 
