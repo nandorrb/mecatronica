@@ -1,6 +1,6 @@
 ---
 title: Project BlueSquid
-date: 2014-07-16 19:00:00 -05:00
+date: 2018-01-01 19:00:00 -05:00
 categories:
 - IOT
 - IIOT
@@ -10,9 +10,9 @@ categories:
 - Artificial Inteligence
 layout: default
 modal-id: 1
-img: linea_de_produccion.jpg
+img: project_bluesquid.jpg
 alt: image-alt
-project-date: April 2014
+project-date: April 2018
 client: Start Bootstrap
 description: Desarrollo de un sistema completo de monitoreo y logistica, usando lo
   ultimo en tecnología para todo tipo de empresas.
