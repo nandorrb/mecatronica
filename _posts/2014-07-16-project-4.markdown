@@ -1,0 +1,20 @@
+---
+title: Project BlueSquid
+date: 2014-07-16 19:00:00 -05:00
+categories:
+- IOT
+- IIOT
+- Business Inteligence
+- CMS
+- ERP
+- Artificial Inteligence
+layout: default
+modal-id: 1
+img: linea_de_produccion.jpg
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+description: Desarrollo de un sistema completo de monitoreo y logistica, usando lo ultimo en tecnología para todo tipo de empresas.
+
+---
+
