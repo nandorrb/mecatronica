@@ -13,7 +13,8 @@ img: project_bluesquid.jpg
 alt: image-alt
 project-date: 2018-03-31 19:00:00 -05:00
 client: Start Bootstrap
-description: 'Development of a complete monitoring and logistics system, using the latest technology for all types of companies. http://www.mecatronica.pe/bluesquid
+description: 'Development of a complete monitoring and logistics system, using the
+  latest technology for all types of companies. http://www.mecatronica.pe/bluesquid
 
 '
 layout: default
