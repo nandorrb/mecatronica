@@ -9,7 +9,6 @@ img: linea_de_produccion.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
-description: Desarrollamos continuamente nuevos proyectos y StartUps, innovando y
-  generando nuevas oportunidades de negocio y tecnologìa.  
+description: We continuously develop new projects and StartUps, innovating and generating new business and technology opportunities.
 ---
 
