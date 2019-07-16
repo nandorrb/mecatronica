@@ -9,6 +9,9 @@ img: prototipos.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
-description: We develop engineering projects and design of machinery, with the latest technology and industrial quality. Every project starts with the requirements, a quote and project planning is developed. We rely on the methodology "Lean for development of the project design cycle".
+description: We develop engineering projects and design of machinery, with the latest
+  technology and industrial quality. Every project starts with the requirements, a
+  quote and project planning is developed. We rely on the methodology "Lean for development
+  of the project design cycle".
 ---
 
