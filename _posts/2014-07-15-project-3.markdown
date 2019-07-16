@@ -9,6 +9,12 @@ img: automatizacion.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
-description: When a company is automated, its production is increased, costs are reduced and the quality of the product is improved. Our goal is to make scalable products that make it simple to increase the company's production. We offer innovative, cheap and robust solutions. Perfect for industrial use. Machines that work at 220V, 380V or 440V for easy coupling to industrial networks, sending information to the network, for online monitoring, Android graphical interface. And other functionalities that the client considers necessary.
+description: When a company is automated, its production is increased, costs are reduced
+  and the quality of the product is improved. Our goal is to make scalable products
+  that make it simple to increase the company's production. We offer innovative, cheap
+  and robust solutions. Perfect for industrial use. Machines that work at 220V, 380V
+  or 440V for easy coupling to industrial networks, sending information to the network,
+  for online monitoring, Android graphical interface. And other functionalities that
+  the client considers necessary.
 ---
 
